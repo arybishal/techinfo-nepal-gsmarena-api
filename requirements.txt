@@ -1,3 +1,4 @@
+setuptools
 fastapi==0.88.0
 parsel==1.7.0
 requests==2.28.1
